@@ -10,6 +10,7 @@
   * [Active Learning](#active-learning)
   * [Flipped Lectures](#flipped-lectures)
   * [Project Based Learning](#project-based-learning)
+  * [Team Based Learning](#team-based-learning)
 * [Technology](#technology)
   * [Computerized Testing](#computerized-testing)
   * [Systems](#systems)
@@ -31,6 +32,7 @@
 ###Active Learning
 ###Flipped Lectures
 ###Project Based Learning
+###Team Based Learning
 
 ##Technology
 
