@@ -66,5 +66,6 @@ RELATE is a web-based courseware package. It is set apart by the following featu
 
 * [randexam](https://github.com/mwest1066/randexam) is a multiple choice exam randomizer.
 * [examtron](https://github.com/inducer/examtron) is a simple package for working with latex-based multiple choice exams.
+* [iclicker]() is an audience response system. Illinois lists several [intstructor resources](http://iclicker.illinois.edu/instructors.aspx).
 
 ##Other
