@@ -2,6 +2,8 @@
 * [Getting Started](#getting-started)
   * [TA Training](#ta-training)
   * [Best Practices](#best-practices)
+  * [Pre-Checklist](#pre-checklist)
+  * [Post-Checklist](#post-checklist)
 * [Evaluation](#evaluation)
   * [Surveys](#surveys)
   * [Focus Groups](#focus-groups)
@@ -20,7 +22,24 @@
 
 ###TA Training
 ###Best Practices
+###Pre-Checklist
+ - [] Course website with location/time
+ - [] Link course website through `my.`
+ - [] Add TAs to the coures through `my.`
+ - [] Syllabus with policies
+ - [] Textbook links
+ - [] Grading breakdown
+ - [] Set up a place to store grades (securely)
+ - [] Set up a system for homeworks
+ - [] Set up 
+ - [] Schedule a regular TA meeting
+ - [] Revisit a list of learning goals
 
+###Post-Checklist
+ - [] Archive the semester including:
+  - Material
+  - Information on term/instructor/TAs
+  - Grading rubrics
 ##Evaluation
 
 ###Surveys
