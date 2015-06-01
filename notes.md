@@ -23,20 +23,20 @@
 ###TA Training
 ###Best Practices
 ###Pre-Checklist
- - [] Course website with location/time
- - [] Link course website through `my.`
- - [] Add TAs to the coures through `my.`
- - [] Syllabus with policies
- - [] Textbook links
- - [] Grading breakdown
- - [] Set up a place to store grades (securely)
- - [] Set up a system for homeworks
- - [] Set up 
- - [] Schedule a regular TA meeting
- - [] Revisit a list of learning goals
+ - [ ] Course website with location/time
+ - [ ] Link course website through `my.`
+ - [ ] Add TAs to the coures through `my.`
+ - [ ] Syllabus with policies
+ - [ ] Textbook links
+ - [ ] Grading breakdown
+ - [ ] Set up a place to store grades (securely)
+ - [ ] Set up a system for homeworks
+ - [ ] Set up 
+ - [ ] Schedule a regular TA meeting
+ - [ ] Revisit a list of learning goals
 
 ###Post-Checklist
- - [] Archive the semester including:
+ - [ ] Archive the semester including:
   - Material
   - Information on term/instructor/TAs
   - Grading rubrics
