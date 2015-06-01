@@ -38,6 +38,33 @@
 
 ###Computerized Testing
 ###Systems
+
+* [PrarieLearn](https://github.com/PrairieLearn/PrairieLearn)
+
+From the website:
+```
+PrairieLearn is an online problem-driven learning system. It consists of a server component that presents questions and other data via an API, and a webapp that interfaces with the user and communicates with the server.
+```
+
+* [Relate](https://github.com/inducer/relate)
+
+From the website:
+```
+RELATE is a web-based courseware package. It is set apart by the following features:
+  * Focus on easy content creation
+   * Simple, text-based format for reusable course content
+   * Based on standard YAML, Markdown
+   * Instructors can implement custom question/page types in Python.
+  * Flexible rules for participation, access, and grading
+  * Versioning of content through deep integration with git.
+  * Allow students to write code into a text box (with syntax highlighting)
+  * Automatic grading
+  * Statistics/analytics of student answers.
+  * Facilitates live quizzes in the classroom.
+```
 ###Tools
+
+* [randexam](https://github.com/mwest1066/randexam) is a multiple choice exam randomizer.
+* [examtron](https://github.com/inducer/examtron) is a simple package for working with latex-based multiple choice exams.
 
 ##Other
